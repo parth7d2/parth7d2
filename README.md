@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 📫 How to reach me [link](https://twitter.com/Parth7D2?t=kBXbGVSrfXNgW2yRyIoSxQ&s=09)
+- 📫 How to reach me [Twitter](https://twitter.com/Parth7D2?t=kBXbGVSrfXNgW2yRyIoSxQ&s=09)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
