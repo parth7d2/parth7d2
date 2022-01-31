@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 📫 How to reach me **https://twitter.com/Parth7D2?t=kBXbGVSrfXNgW2yRyIoSxQ&s=09**
+- 📫 How to reach me <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
