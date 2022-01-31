@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Parth Patel</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, My name is Parth Patel</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
 - 🔭 I’m currently working on **Android App Development**
