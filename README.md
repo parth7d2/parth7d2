@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, My name is Parth Patel</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-- 🔭 I’m currently working on **Android App Development**
+- 🔭 I’m currently working on Android App Development
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning Data Structures and Algorithms
 
 - 📫 How to reach me [Twitter](https://twitter.com/Parth7D2?t=kBXbGVSrfXNgW2yRyIoSxQ&s=09)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h3>
 <p align="left">
 <a href="https://twitter.com/parth7d2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parth7d2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/parth02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parth02" height="30" width="40" /></a>
