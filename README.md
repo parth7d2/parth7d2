@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Android App Development
 
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning DSA and Flutter App Development
 
 - 📫 How to reach me [Twitter](https://twitter.com/Parth7D2?t=kBXbGVSrfXNgW2yRyIoSxQ&s=09)
 
