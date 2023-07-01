@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://twitter.com/parth7d2" target="blank"><img align="center" src="https://developer.android.com/static/images/logos/twitter.svg" alt="parth7d2" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/parth02" target="blank"><img align="center" src="https://www.gstatic.com/devrel-devsite/prod/ve71f558f8fdfc41aa4dfb3d6849b3a58ae257de9fcb1864452754797dd0232f6/android/images/logo-linkedin.svg" alt="https://www.linkedin.com/in/parth02" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/parth7d2" target="blank"><img align="center" src="https://www.gstatic.com/devrel-devsite/prod/ve71f558f8fdfc41aa4dfb3d6849b3a58ae257de9fcb1864452754797dd0232f6/android/images/logo-linkedin.svg" alt="https://www.linkedin.com/in/parth02" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/18039478/parth-patel" target="blank"><img align="center" src="https://developer.android.com/static/images/logos/stack-overflow.svg" alt="https://stackoverflow.com/users/18039478/parth-patel" height="40" width="40" /></a>
 </p>
 
